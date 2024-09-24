@@ -10,12 +10,13 @@
 
 ## Modifications
 <!-- | Name | Version | [CurseForge]() | [GitHub]() | Tag | -->
-| Name              | Version | Download                                                                                        | Source                                                      | Tag          |
-| ----------------- | ------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------ |
-| Cupboard          | 2.7     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470034)               | [GitHub](https://github.com/someaddons/cupboard)            | Library      |
-| ModernFix         | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)             | [GitHub](https://github.com/embeddedt/ModernFix)            | Optimization |
-| AttributeFix      | 21.0.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4911083)           | [GitHub](https://github.com/Darkhax-Minecraft/AttributeFix) | Optimization |
-| Connectivity      | 5.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity/files/5728629)           | [GitHub](https://github.com/someaddons/connectivity)        | Optimization |
-| Smooth Chunk Save | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/5138126)      | [GitHub](https://github.com/someaddons/smoothchunksave)     | Optimization |
-| ImmediatelyFast   | 1.2.21  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/5672336)        | [GitHub](https://github.com/RaphiMC/ImmediatelyFast)        | Optimization |
-| Spark             | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                  | [GitHub](https://github.com/lucko/spark)                    | Profiler     |
+| Name                 | Version | Download                                                                                                      | Source                                                      | Tag          |
+| -------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------ |
+| Cupboard             | 2.7     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470034)                             | [GitHub](https://github.com/someaddons/cupboard)            | Library      |
+| ModernFix            | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)                           | [GitHub](https://github.com/embeddedt/ModernFix)            | Optimization |
+| AttributeFix         | 21.0.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4911083)                         | [GitHub](https://github.com/Darkhax-Minecraft/AttributeFix) | Optimization |
+| Connectivity         | 5.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity/files/5728629)                         | [GitHub](https://github.com/someaddons/connectivity)        | Optimization |
+| Smooth Chunk Save    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/5138126)                    | [GitHub](https://github.com/someaddons/smoothchunksave)     | Optimization |
+| Structure Essentials | 3.4     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric/files/5392624)    | [GitHub](https://github.com/someaddons/structureessentials) | Optimization |
+| ImmediatelyFast      | 1.2.21  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/5672336)                      | [GitHub](https://github.com/RaphiMC/ImmediatelyFast)        | Optimization |
+| Spark                | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                                | [GitHub](https://github.com/lucko/spark)                    | Profiler     |
