@@ -22,5 +22,6 @@
 | Packet Fixer         | 1.4.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/5416165)                         | [GitHub](https://github.com/TonimatasDEV/PacketFixer)        | Optimization |
 | Sodium               | 0.5.11  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium/files/5485654)                               | [GitHub](https://github.com/CaffeineMC/sodium-fabric)        | Optimization |
 | Sodium Extra         | 0.5.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files/5063875)                         | [GitHub](https://github.com/FlashyReese/sodium-extra-fabric) | Optimization |
+| Iris Shaders         | 1.7.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders/files/5485649)                          | [GitHub](https://github.com/IrisShaders/Iris)                | Optimization |
 | Spark                | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                                | [GitHub](https://github.com/lucko/spark)                     | Profiler     |
 | Configured           | 2.2.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured/files/5180902)                           | [GitHub](https://github.com/MrCrayfish/Configured)           | Utility      |
