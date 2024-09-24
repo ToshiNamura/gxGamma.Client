@@ -21,3 +21,4 @@
 | ImmediatelyFast      | 1.2.21  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/5672336)                      | [GitHub](https://github.com/RaphiMC/ImmediatelyFast)        | Optimization |
 | Packet Fixer         | 1.4.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/5416165)                         | [GitHub](https://github.com/TonimatasDEV/PacketFixer)       | Optimization |
 | Spark                | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                                | [GitHub](https://github.com/lucko/spark)                    | Profiler     |
+| Configured           | 2.2.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured/files/5180902)                           | [GitHub](https://github.com/MrCrayfish/Configured)          | Utility      |
