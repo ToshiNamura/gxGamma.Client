@@ -29,3 +29,4 @@
 | Spark                  | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                                | [GitHub](https://github.com/lucko/spark)                       | Profiler     |
 | Configured             | 2.2.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured/files/5180902)                           | [GitHub](https://github.com/MrCrayfish/Configured)             | Utility      |
 | BetterF3               | 7.0.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3/files/4863625)                             | [GitHub](https://github.com/TreyRuffy/BetterF3)                | Utility      |
+| Mod Menu               | 7.2.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/5162837)                              | [GitHub](https://github.com/TerraformersMC/ModMenu)            | Utility      |
