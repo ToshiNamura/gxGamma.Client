@@ -25,5 +25,6 @@
 | Reese's Sodium Options | 1.7.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options/files/5075462)                | [GitHub](https://github.com/FlashyReese/reeses-sodium-options) | Optimization |
 | Iris Shaders           | 1.7.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/irisshaders/files/5485649)                          | [GitHub](https://github.com/IrisShaders/Iris)                  | Optimization |
 | Indium                 | 1.0.34  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/indium/files/5493195)                               | [GitHub](https://github.com/comp500/Indium)                    | Optimization |
+| Lithium                | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium/files/4765724)                              | [GitHub](https://github.com/CaffeineMC/lithium-fabric)         | Optimization |
 | Spark                  | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                                | [GitHub](https://github.com/lucko/spark)                       | Profiler     |
 | Configured             | 2.2.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured/files/5180902)                           | [GitHub](https://github.com/MrCrayfish/Configured)             | Utility      |
