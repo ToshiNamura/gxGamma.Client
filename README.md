@@ -9,7 +9,8 @@
 | Fabric API       | 0.92.2  | [curseforge.com](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [GitHub](https://github.com/FabricMC/fabric)        |
 
 ## Modifications
-<!-- | Name | Version | Download | Source | Tag | -->
+<!-- | Name | Version | [CurseForge]() | [GitHub]() | Tag | -->
 | Name      | Version | Download                                                                                     | Source                                           | Tag          |
 | --------- | ------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------ |
 | ModernFix | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)          | [GitHub](https://github.com/embeddedt/ModernFix) | Optimization |
+| Spark     | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)               | [GitHub](https://github.com/lucko/spark)         | Profiler     |
