@@ -10,7 +10,8 @@
 
 ## Modifications
 <!-- | Name | Version | [CurseForge]() | [GitHub]() | Tag | -->
-| Name      | Version | Download                                                                                     | Source                                           | Tag          |
-| --------- | ------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------ |
-| ModernFix | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)          | [GitHub](https://github.com/embeddedt/ModernFix) | Optimization |
-| Spark     | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)               | [GitHub](https://github.com/lucko/spark)         | Profiler     |
+| Name         | Version | Download                                                                                        | Source                                                      | Tag          |
+| ------------ | ------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------ |
+| ModernFix    | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)             | [GitHub](https://github.com/embeddedt/ModernFix)            | Optimization |
+| AttributeFix | 21.0.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4911083)           | [GitHub](https://github.com/Darkhax-Minecraft/AttributeFix) | Optimization |
+| Spark        | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                  | [GitHub](https://github.com/lucko/spark)                    | Profiler     |
