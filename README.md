@@ -34,3 +34,4 @@
 | BetterF3               | 7.0.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterf3/files/4863625)                             | [GitHub](https://github.com/TreyRuffy/BetterF3)                | Utility      |
 | Mod Menu               | 7.2.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/5162837)                              | [GitHub](https://github.com/TerraformersMC/ModMenu)            | Utility      |
 | Language Reload        | 1.6.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/language-reload/files/5344000)                      | [GitHub](https://github.com/Jerozgen/LanguageReload)           | Utility      |
+| Global Packs           | 1.16.1  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack/files/4570601)                  | [GitHub](https://github.com/JTK222/Global-Packs)               | Utility      |
