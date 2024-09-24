@@ -9,3 +9,7 @@
 !/.gitignore
 !/LICENSE.txt
 !/README.md
+
+# Client
+!/mods/
+!/resourcepacks/
