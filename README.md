@@ -62,10 +62,8 @@
 | EMPTY.                       | EMPTY.  | EMPTY.                                                                                                        | EMPTY.                                                             | EMPTY.       |
 -->
 
-<!--## Resourcepacks-->
+## Resourcepacks
 <!-- | Name | Version | [Modrinth]() | [GitHub]() | Tag | -->
-<!--
-| Name                         | Version | Download                                                                                                      | Source                                                             | Tag          |
-| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
-| EMPTY.                       | EMPTY.  | EMPTY.                                                                                                        | EMPTY.                                                             | EMPTY.       |
--->
+| Name                         | Version  | Download                                                                                                      | Source                                                             | Tag          |
+| ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
+| Default Dark Mode            | 2023.7.0 | [Modrinth](https://modrinth.com/resourcepack/default-dark-mode/version/2023.7.0-1.20)                         | [GitHub](https://github.com/nebuIr/Default-Dark-Mode)              | GUI          |
