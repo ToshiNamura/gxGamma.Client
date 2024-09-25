@@ -78,6 +78,7 @@
 | Status Effect Bars       | 1.0.3      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars/files/4585394)         | [GitHub](https://github.com/A5b84/status-effect-bars)              |
 | Better Ping Display      | 1.1.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric/files/4592448) | [GitHub](https://github.com/vladmarica/better-ping-display-fabric) |
 | Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                        | [GitHub](https://github.com/mezz/JustEnoughItems)                  |
+| AppleSkin                | 2.5.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/4770825)                  | [GitHub](https://github.com/squeek502/AppleSkin)                   |
 
 ## Utility
 | Name              | Version | Download                                                                                     | Source                                                     |
