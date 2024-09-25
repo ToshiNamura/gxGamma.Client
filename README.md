@@ -22,6 +22,7 @@
 | YetAnotherConfigLib          | 3.5.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/yacl/files/5424129)                              | [GitHub](https://github.com/isXander/YetAnotherConfigLib)        | Library      |
 | Balm                         | 7.3.9   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm-fabric/files/5644969)                       | [GitHub](https://github.com/TwelveIterationMods/Balm)            | Library      |
 | Fabric Language Kotlin       | 2.0.20  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/5733893)            | [GitHub](https://github.com/FabricMC/fabric-language-kotlin)     | Library      |
+| TCDCommons API               | 3.12.3  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tcdcommons/files/5604689)                        | [GitHub](https://github.com/TheCSMods/mc-tcdcommons)             | Library      |
 | ModernFix                    | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)                        | [GitHub](https://github.com/embeddedt/ModernFix)                 | Optimization |
 | AttributeFix                 | 21.0.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4911083)                      | [GitHub](https://github.com/Darkhax-Minecraft/AttributeFix)      | Optimization |
 | Connectivity                 | 5.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity/files/5728629)                      | [GitHub](https://github.com/someaddons/connectivity)             | Optimization |
@@ -58,6 +59,7 @@
 | NetherPortalFix              | 13.0.1  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric/files/4939732)            | [GitHub](https://github.com/TwelveIterationMods/NetherPortalFix) | Utility      |
 | Dark Loading Screen          | 1.6.14  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/4557703)               | [GitHub](https://github.com/A5b84/dark-loading-screen)           | Utility      |
 | Log Begone                   | 1.0.8   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)                        | [GitHub](https://github.com/AzureDoom/Log-Begone)                | Utility      |
+| Better Statistics Screen     | 3.12.6  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-stats/files/5607266)                      | [GitHub](https://github.com/TheCSMods/mc-better-stats)           | Utility      |
 </details>
 
 <details>
