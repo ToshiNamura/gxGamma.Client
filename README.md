@@ -51,3 +51,4 @@
 | Global Packs                 | 1.16.1  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack/files/4570601)                  | [GitHub](https://github.com/JTK222/Global-Packs)                   | Utility      |
 | Open Loader                  | 19.0.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader/files/5368593)                          | [GitHub](https://github.com/Darkhax-Minecraft/Open-Loader)         | Utility      |
 | NetherPortalFix              | 13.0.1  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric/files/4939732)               | [GitHub](https://github.com/TwelveIterationMods/NetherPortalFix)   | Utility      |
+| Dark Loading Screen          | 1.6.14  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/4557703)                  | [GitHub](https://github.com/A5b84/dark-loading-screen)             | Utility      |
