@@ -85,6 +85,7 @@
 | Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                       | [GitHub](https://github.com/Snownee/Jade)                               |
 | JourneyMap               | 5.10.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/5678922)                 | [GitHub](https://github.com/TeamJM/journeymap)                          |
 | Enchantment Descriptions | 17.1.18    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/5598370)   | [GitHub](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions) |
+| Chat Heads               | 0.13.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/5749650)                 | [GitHub](https://github.com/dzwdz/chat_heads)                           |
 
 ## Utility
 | Name              | Version | Download                                                                                     | Source                                                     |
