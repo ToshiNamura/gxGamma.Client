@@ -54,13 +54,11 @@
 | Dark Loading Screen          | 1.6.14  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/4557703)                  | [GitHub](https://github.com/A5b84/dark-loading-screen)             | Utility      |
 | Log Begone                   | 1.0.8   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)                           | [GitHub](https://github.com/AzureDoom/Log-Begone)                  | Utility      |
 
-<!--## Datapacks-->
+## Datapacks
 <!-- | Name | Version | [Modrinth]() | [GitHub]() | Tag | -->
-<!--
-| Name                         | Version | Download                                                                                                      | Source                                                             | Tag          |
-| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
-| EMPTY.                       | EMPTY.  | EMPTY.                                                                                                        | EMPTY.                                                             | EMPTY.       |
--->
+| Name                             | Version | Download                                                                                                      | Source                                                          | Tag          |
+| -------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------ |
+| BlazeandCave's Advancements Pack | 1.16.2  | [Modrinth](https://modrinth.com/datapack/blazeandcaves-advancements-pack/version/1.16.2)                      | No Source                                                       | Adventure    |
 
 ## Resourcepacks
 <!-- | Name | Version | [Modrinth]() | [GitHub]() | Tag | -->
