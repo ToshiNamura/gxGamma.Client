@@ -12,4 +12,7 @@
 
 # Client
 !/mods/
+!/data/
+/data/fabricDefaultResourcePacks.dat
 !/resourcepacks/
+!/shaderpacks/
