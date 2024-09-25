@@ -80,6 +80,7 @@
 | Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                        | [GitHub](https://github.com/mezz/JustEnoughItems)                  |
 | AppleSkin                | 2.5.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/4770825)                  | [GitHub](https://github.com/squeek502/AppleSkin)                   |
 | Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                       | [GitHub](https://github.com/Snownee/Jade)                          |
+| JourneyMap               | 5.10.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/5678922)                 | [GitHub](https://github.com/TeamJM/journeymap)                     |
 
 ## Utility
 | Name              | Version | Download                                                                                     | Source                                                     |
