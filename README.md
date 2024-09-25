@@ -60,6 +60,7 @@
 | Dark Loading Screen          | 1.6.14  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/4557703)               | [GitHub](https://github.com/A5b84/dark-loading-screen)           | Utility      |
 | Log Begone                   | 1.0.8   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)                        | [GitHub](https://github.com/AzureDoom/Log-Begone)                | Utility      |
 | Better Statistics Screen     | 3.12.6  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-stats/files/5607266)                      | [GitHub](https://github.com/TheCSMods/mc-better-stats)           | Utility      |
+| Better Trim Tooltips         | 1.0.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips/files/4579455)              | [GitHub](https://github.com/Andrew6rant/Better-Trim-Tooltips)    | Utility      |
 </details>
 
 <details>
