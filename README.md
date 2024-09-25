@@ -87,6 +87,7 @@
 | Open Loader       | 19.0.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/open-loader/files/5368593)         | [GitHub](https://github.com/Darkhax-Minecraft/Open-Loader) |
 | Log Begone        | 1.0.8   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)          | [GitHub](https://github.com/AzureDoom/Log-Begone)          |
 | Inventory Sorting | 1.9.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/4597704)   | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter) |
+| Mouse Tweaks      | 2.26    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/5230279)        | [GitHub](https://github.com/YaLTeR/MouseTweaks)            |
 
 </details>
 
