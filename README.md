@@ -62,6 +62,7 @@
 | Log Begone                   | 1.0.8   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)                        | [GitHub](https://github.com/AzureDoom/Log-Begone)                | Utility      |
 | Better Statistics Screen     | 3.12.6  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-stats/files/5607266)                      | [GitHub](https://github.com/TheCSMods/mc-better-stats)           | Utility      |
 | Better Trim Tooltips         | 1.0.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips/files/4579455)              | [GitHub](https://github.com/Andrew6rant/Better-Trim-Tooltips)    | Utility      |
+| Status Effect Bars           | 1.0.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars/files/4585394)                | [GitHub](https://github.com/A5b84/status-effect-bars)            | Utility      |
 </details>
 
 <details>
