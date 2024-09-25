@@ -39,7 +39,7 @@
 | BadOptimizations             | 2.1.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/badoptimizations/files/5430253)                     | [GitHub](https://github.com/ItsThosea/BadOptimizations)            | Optimization |
 | Ksyxis                       | 1.3.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ksyxis/files/5419927)                               | [GitHub](https://github.com/VidTu/Ksyxis)                          | Optimization |
 | Client Crafting              | 1.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/client-crafting/files/5097011)                      | [GitHub](https://github.com/someaddons/clientcrafting)             | Optimization |
-| FPS Reducer                  | 2.5     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/files/4578392)                          | [lcf](https://legacy.curseforge.com/minecraft/mc-mods/fps-reducer) | Optimization |
+| FPS Reducer                  | 2.5     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fps-reducer/files/4578392)                          | No Source                                                          | Optimization |
 | Noisium                      | 2.3.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/noisium/files/5650500)                              | [GitHub](https://github.com/Steveplays28/noisium)                  | Optimization |
 | Recipe Essentials            | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric/files/5581358)       | [GitHub](https://github.com/someaddons/recipeessentials)           | Optimization |
 | Spark                        | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)                                | [GitHub](https://github.com/lucko/spark)                           | Profiler     |
@@ -53,3 +53,19 @@
 | NetherPortalFix              | 13.0.1  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric/files/4939732)               | [GitHub](https://github.com/TwelveIterationMods/NetherPortalFix)   | Utility      |
 | Dark Loading Screen          | 1.6.14  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/4557703)                  | [GitHub](https://github.com/A5b84/dark-loading-screen)             | Utility      |
 | Log Begone                   | 1.0.8   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)                           | [GitHub](https://github.com/AzureDoom/Log-Begone)                  | Utility      |
+
+<!--## Datapacks-->
+<!-- | Name | Version | [Modrinth]() | [GitHub]() | Tag | -->
+<!--
+| Name                         | Version | Download                                                                                                      | Source                                                             | Tag          |
+| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
+| EMPTY.                       | EMPTY.  | EMPTY.                                                                                                        | EMPTY.                                                             | EMPTY.       |
+-->
+
+<!--## Resourcepacks-->
+<!-- | Name | Version | [Modrinth]() | [GitHub]() | Tag | -->
+<!--
+| Name                         | Version | Download                                                                                                      | Source                                                             | Tag          |
+| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
+| EMPTY.                       | EMPTY.  | EMPTY.                                                                                                        | EMPTY.                                                             | EMPTY.       |
+-->
