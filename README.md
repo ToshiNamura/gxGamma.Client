@@ -79,6 +79,7 @@
 | Status Effect Bars       | 1.0.3      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars/files/4585394)         | [GitHub](https://github.com/A5b84/status-effect-bars)                   |
 | Better Ping Display      | 1.1.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric/files/4592448) | [GitHub](https://github.com/vladmarica/better-ping-display-fabric)      |
 | Just Enough Items        | 15.16.2.73 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei/files/5683453)                        | [GitHub](https://github.com/mezz/JustEnoughItems)                       |
+| Just Enough Resources    | 1.4.0.247  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/5057223)  | [GitHub](https://github.com/way2muchnoise/JustEnoughResources)          |
 | AppleSkin                | 2.5.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/4770825)                  | [GitHub](https://github.com/squeek502/AppleSkin)                        |
 | Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                       | [GitHub](https://github.com/Snownee/Jade)                               |
 | JourneyMap               | 5.10.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/5678922)                 | [GitHub](https://github.com/TeamJM/journeymap)                          |
