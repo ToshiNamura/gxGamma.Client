@@ -67,3 +67,9 @@
 | Name                         | Version  | Download                                                                                                      | Source                                                             | Tag          |
 | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
 | Default Dark Mode            | 2023.7.0 | [Modrinth](https://modrinth.com/resourcepack/default-dark-mode/version/2023.7.0-1.20)                         | [GitHub](https://github.com/nebuIr/Default-Dark-Mode)              | GUI          |
+
+## Shaderpacks
+<!-- | Name | Version | [Modrinth]() | [GitHub]() | Tag | -->
+| Name                         | Version | Download                                                                                                      | Source                                                             | Tag          |
+| ---------------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------ |
+| Solas Shader                 | 2.3     | [Modrinth](https://modrinth.com/shader/solas-shader/version/2.3)                                              | [GitHub](https://github.com/Septonious/Solas-Shader)               | Lighting     |
