@@ -63,6 +63,7 @@
 | Better Statistics Screen     | 3.12.6  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-stats/files/5607266)                      | [GitHub](https://github.com/TheCSMods/mc-better-stats)           | Utility      |
 | Better Trim Tooltips         | 1.0.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips/files/4579455)              | [GitHub](https://github.com/Andrew6rant/Better-Trim-Tooltips)    | Utility      |
 | Status Effect Bars           | 1.0.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars/files/4585394)                | [GitHub](https://github.com/A5b84/status-effect-bars)            | Utility      |
+| Inventory Sorting            | 1.9.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/4597704)                 | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter)       | Utility      |
 </details>
 
 <details>
