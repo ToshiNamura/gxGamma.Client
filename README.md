@@ -132,15 +132,6 @@
 </details>
 
 <details>
-<summary>Datapacks</summary>
-
-<!-- | Name | Version | [Modrinth]() | [GitHub]() | -->
-| Name                             | Version | Download                                                                                 | Source    |
-| :------------------------------- | :-----: | :--------------------------------------------------------------------------------------: | :-------: |
-| BlazeandCave's Advancements Pack | 1.16.2  | [Modrinth](https://modrinth.com/datapack/blazeandcaves-advancements-pack/version/1.16.2) | No Source |
-</details>
-
-<details>
 <summary>Resourcepacks</summary>
 
 <!-- | Name | Version | [Modrinth]() | [GitHub]() | -->
