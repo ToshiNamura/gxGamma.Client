@@ -113,10 +113,11 @@
 | Chunky Border     | 1.1.53  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-border/files/4787015)       | [GitHub](https://github.com/pop4959/ChunkyBorder)          |
 
 ## Game Mechanics
-| Name                  | Version | Download                                                                                       | Source                                                         |
-| :-------------------- | :-----: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-| Botania               | 446     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/files/5594996)        | [GitHub](https://github.com/VazkiiMods/Botania)                |
-| Industrial Revolution | 1.16.7  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution/files/5254377) | [GitHub](https://github.com/GabrielOlvH/Industrial-Revolution) |
+| Name                          | Version | Download                                                                                              | Source                                                                |
+| :---------------------------- | :-----: | :---------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| Botania                       | 446     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/files/5594996)               | [GitHub](https://github.com/VazkiiMods/Botania)                       |
+| Industrial Revolution         | 1.16.7  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/industrial-revolution/files/5254377)        | [GitHub](https://github.com/GabrielOlvH/Industrial-Revolution)        |
+| Farmer's Delight Refabricated | 2.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated/files/5684645) | [GitHub](https://github.com/MehVahdJukaar/FarmersDelightRefabricated) |
 </details>
 
 <details>
