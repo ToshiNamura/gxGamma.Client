@@ -123,6 +123,11 @@
 | Rechiseled                    | 1.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled/files/5286340)                   | [GitHub](https://github.com/SuperMartijn642/Rechiseled)               |
 | Connected Glass               | 1.1.12  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connected-glass/files/5657171)              | [GitHub](https://github.com/SuperMartijn642/ConnectedGlass)           |
 | Another Furniture             | 3.0.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/4815126)            | [GitHub](https://github.com/starfish-studios/AnotherFurniture)        |
+
+## World Gen
+| Name         | Version | Download                                                                              | Source                                             |
+| :----------- | :-----: | :-----------------------------------------------------------------------------------: | :------------------------------------------------: |
+| BetterNether | 9.0.10  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether/files/4971478) | [GitHub](https://github.com/quiqueck/BetterNether) |
 </details>
 
 <details>
