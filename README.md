@@ -90,6 +90,7 @@
 | Chat Heads               | 0.13.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/5749650)                 | [GitHub](https://github.com/dzwdz/chat_heads)                           |
 | Emojiful                 | 4.2.0      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful/files/4672307)                   | [GitHub](https://github.com/InnovativeOnlineIndustries/Emojiful)        |
 | Durability Tooltip       | 1.1.5      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip/files/4741041)         | [GitHub](https://github.com/SuperMartijn642/DurabilityTooltip)          |
+| Shulker Box Tooltip      | 4.0.4      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip/files/4611154)          | [GitHub](https://github.com/MisterPeModder/ShulkerBoxTooltip)           |
 
 ## Utility
 | Name              | Version | Download                                                                                     | Source                                                     |
