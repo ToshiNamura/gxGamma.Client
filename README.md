@@ -107,6 +107,7 @@
 | WorldEdit CUI     | 1.20+01 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/4575022) | [GitHub](https://github.com/EngineHub/WorldEditCUI)        |
 | CraftTweaker      | 14.0.43 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/5648764)        | [GitHub](https://github.com/CraftTweaker/CraftTweaker)     |
 | Chunky            | 1.3.146 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/5320021) | [GitHub](https://github.com/pop4959/Chunky)                |
+| Chunky Border     | 1.1.53  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-border/files/4787015)       | [GitHub](https://github.com/pop4959/ChunkyBorder)          |
 </details>
 
 <details>
