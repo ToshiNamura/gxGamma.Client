@@ -120,6 +120,7 @@
 | Farmer's Delight Refabricated | 2.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated/files/5684645) | [GitHub](https://github.com/MehVahdJukaar/FarmersDelightRefabricated) |
 | Expanded Delight              | 0.3.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/expanded-delight/files/5708081)             | [GitHub](https://github.com/ianm1647/expandeddelight)                 |
 | Applied Energistics 2         | 15.2.12 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/5588163)        | [GitHub](https://github.com/AppliedEnergistics/Applied-Energistics-2) |
+| Rechiseled                    | 1.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled/files/5286340)                   | [GitHub](https://github.com/SuperMartijn642/Rechiseled)               |
 </details>
 
 <details>
