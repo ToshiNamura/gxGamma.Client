@@ -27,6 +27,7 @@
 | Bookshelf                    | 20.2.13 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf/files/5423988)                   | [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf)               |
 | SuperMartijn642's Core Lib   | 1.1.17a | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib/files/5668908)   | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sCoreLib)   |
 | SuperMartijn642's Config Lib | 1.1.8a  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib/files/4785838) | [GitHub](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib) |
+| Trinkets                     | 3.7.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trinkets/files/5173501)                    | [GitHub](https://github.com/emilyploszaj/trinkets)                     |
 
 ## Bug fix
 | Name            | Version | Download                                                                                        | Source                                                           |
@@ -108,6 +109,11 @@
 | CraftTweaker      | 14.0.43 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/5648764)        | [GitHub](https://github.com/CraftTweaker/CraftTweaker)     |
 | Chunky            | 1.3.146 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/5320021) | [GitHub](https://github.com/pop4959/Chunky)                |
 | Chunky Border     | 1.1.53  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-border/files/4787015)       | [GitHub](https://github.com/pop4959/ChunkyBorder)          |
+
+## Game Mechanics
+| Name                  | Version | Download                                                                                       | Source                                                         |
+| :-------------------- | :-----: | :--------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
+| Botania               | 446     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/files/5594996)        | [GitHub](https://github.com/VazkiiMods/Botania)                |
 </details>
 
 <details>
