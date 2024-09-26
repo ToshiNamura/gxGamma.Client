@@ -11,9 +11,10 @@
 !/README.md
 
 # Client
-!/config/
-/config/*
-!/config/global_data_and_resourcepacks.toml
 !/mods/
 !/resourcepacks/
 !/shaderpacks/
+
+## Config
+!/config/
+/config/*
