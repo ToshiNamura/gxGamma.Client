@@ -91,6 +91,7 @@
 | Just Enough Breeding     | 1.4.0      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding/files/5682438)         | [GitHub](https://github.com/Christofmeg/JustEnoughBreeding)             |
 | AppleSkin                | 2.5.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin/files/4770825)                  | [GitHub](https://github.com/squeek502/AppleSkin)                        |
 | Jade                     | 11.11.0    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade/files/5666690)                       | [GitHub](https://github.com/Snownee/Jade)                               |
+| Jade Addons              | 5.3.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric/files/5592658)         | [GitHub](https://github.com/Snownee/JadeAddonsFabric)                   |
 | JourneyMap               | 5.10.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/journeymap/files/5678922)                 | [GitHub](https://github.com/TeamJM/journeymap)                          |
 | Enchantment Descriptions | 17.1.18    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/5598370)   | [GitHub](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions) |
 | Chat Heads               | 0.13.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/5749650)                 | [GitHub](https://github.com/dzwdz/chat_heads)                           |
