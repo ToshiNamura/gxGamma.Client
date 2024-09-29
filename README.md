@@ -125,6 +125,7 @@
 | Cultural Delights             | 1.0.5   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cultural-delights-fabric/files/5510598)     | [GitHub](https://github.com/mrsterner/Cultural-Delights-Fabric)       |
 | Festive Delight               | 1.1     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/festive-delight/files/4707793)              | No Source                                                             |
 | Pineapple Delight             | 1.0.12  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pineapple-delight/files/5767190)            | [GitHub](https://github.com/AmarokIce/PineappleDelight)               |
+| Farmers Structures            | 1.0.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-structures/files/5666029)           | No Source                                                             |
 | Applied Energistics 2         | 15.2.12 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/5588163)        | [GitHub](https://github.com/AppliedEnergistics/Applied-Energistics-2) |
 | Rechiseled                    | 1.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled/files/5286340)                   | [GitHub](https://github.com/SuperMartijn642/Rechiseled)               |
 | Connected Glass               | 1.1.12  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connected-glass/files/5657171)              | [GitHub](https://github.com/SuperMartijn642/ConnectedGlass)           |
