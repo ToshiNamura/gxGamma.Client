@@ -83,7 +83,6 @@
 | Mod Menu                 | 7.2.2      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu/files/5162837)                    | [GitHub](https://github.com/TerraformersMC/ModMenu)                     |
 | Language Reload          | 1.6.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/language-reload/files/5344000)            | [GitHub](https://github.com/Jerozgen/LanguageReload)                    |
 | Dark Loading Screen      | 1.6.14     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/4557703)        | [GitHub](https://github.com/A5b84/dark-loading-screen)                  |
-| Better Statistics Screen | 3.12.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-stats/files/5607266)               | [GitHub](https://github.com/TheCSMods/mc-better-stats)                  |
 | Better Trim Tooltips     | 1.0.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-trim-tooltips/files/4579455)       | [GitHub](https://github.com/Andrew6rant/Better-Trim-Tooltips)           |
 | Status Effect Bars       | 1.0.3      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-bars/files/4585394)         | [GitHub](https://github.com/A5b84/status-effect-bars)                   |
 | Better Ping Display      | 1.1.1      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-ping-display-fabric/files/4592448) | [GitHub](https://github.com/vladmarica/better-ping-display-fabric)      |
