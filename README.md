@@ -129,6 +129,7 @@
 | End's Delight                 | 2.1     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ends-delight/files/5567428)                 | [GitHub](https://github.com/FoggyHillside/End-s-Delight)              |
 | Farmer's Knives               | 3.2     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-knives/files/5281259)               | [GitHub](https://github.com/ianm1647/farmersknives)                   |
 | Brewin' And Chewin            | 3.0.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin-fabric/files/5467339)     | No Source                                                             |
+| Ube's Delight                 | 0.2.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ubes-delight/files/5696215)                 | [GitHub](https://github.com/ChefMooon/ubes-delight)                   |
 | Applied Energistics 2         | 15.2.12 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/5588163)        | [GitHub](https://github.com/AppliedEnergistics/Applied-Energistics-2) |
 | Rechiseled                    | 1.1.6   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/rechiseled/files/5286340)                   | [GitHub](https://github.com/SuperMartijn642/Rechiseled)               |
 | Connected Glass               | 1.1.12  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connected-glass/files/5657171)              | [GitHub](https://github.com/SuperMartijn642/ConnectedGlass)           |
