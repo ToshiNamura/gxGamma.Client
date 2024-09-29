@@ -1,4 +1,4 @@
-# gxGamma Client
+﻿# gxGamma Client
 
 <details>
 <summary>Client Core</summary>
@@ -30,6 +30,7 @@
 | Trinkets                     | 3.7.2   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trinkets/files/5173501)                    | [GitHub](https://github.com/emilyploszaj/trinkets)                     |
 | Fusion                       | 1.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures/files/5129312)   | [GitHub](https://github.com/SuperMartijn642/Fusion)                    |
 | BCLib                        | 3.0.14  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bclib/files/4971470)                       | [GitHub](https://github.com/quiqueck/BCLib)                            |
+| oωo                          | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/owo-lib/files/4749199)                     | [GitHub](https://github.com/wisp-forest/owo-lib)                       |
 
 ## Bug fix
 | Name            | Version | Download                                                                                        | Source                                                           |
@@ -128,10 +129,11 @@
 | Another Furniture             | 3.0.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/4815126)            | [GitHub](https://github.com/starfish-studios/AnotherFurniture)        |
 
 ## World Gen
-| Name         | Version | Download                                                                              | Source                                             |
-| :----------- | :-----: | :-----------------------------------------------------------------------------------: | :------------------------------------------------: |
-| BetterEnd    | 4.0.11  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend/files/4971487)    | [GitHub](https://github.com/quiqueck/BetterEnd)    |
-| BetterNether | 9.0.10  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether/files/4971478) | [GitHub](https://github.com/quiqueck/BetterNether) |
+| Name              | Version | Download                                                                              | Source                                                   |
+| :---------------- | :-----: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------: |
+| BetterEnd         | 4.0.11  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend/files/4971487)    | [GitHub](https://github.com/quiqueck/BetterEnd)          |
+| BetterNether      | 9.0.10  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether/files/4971478) | [GitHub](https://github.com/quiqueck/BetterNether)       |
+| Deeper and Darker | 1.3.2.1 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/deeperdarker/files/5725442) | [GitHub](https://github.com/KyaniteMods/DeeperAndDarker) |
 </details>
 
 <details>
