@@ -117,7 +117,6 @@ __Minimum 5Gb memory.__
 | Log Begone        | 1.0.8   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4582965)          | [GitHub](https://github.com/AzureDoom/Log-Begone)          |
 | Inventory Sorting | 1.9.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/4597704)   | [GitHub](https://github.com/kyrptonaught/Inventory-Sorter) |
 | Mouse Tweaks      | 2.26    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/5230279)        | [GitHub](https://github.com/YaLTeR/MouseTweaks)            |
-| WorldEdit         | 7.2.15  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/4586218)           | [GitHub](https://github.com/enginehub/WorldEdit)           |
 | WorldEdit CUI     | 1.20+01 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric/files/4575022) | [GitHub](https://github.com/EngineHub/WorldEditCUI)        |
 | CraftTweaker      | 14.0.43 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/5648764)        | [GitHub](https://github.com/CraftTweaker/CraftTweaker)     |
 | Chunky            | 1.3.146 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/5320021) | [GitHub](https://github.com/pop4959/Chunky)                |
