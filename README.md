@@ -47,6 +47,7 @@
 | Connectivity    | 5.8     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connectivity/files/5728629)           | [GitHub](https://github.com/someaddons/connectivity)             |
 | AntiGhost       | 1.1.5   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/antighost/files/4613757)              | [GitHub](https://github.com/gbl/AntiGhost)                       |
 | ToolTipFix      | 1.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tooltipfix/files/4577194)             | [GitHub](https://github.com/kyrptonaught/tooltipfix)             |
+| Memory Leak Fix | 1.1.5   | [Modrinth](https://modrinth.com/mod/memoryleakfix/version/v1.1.5)                               | [GitHub](https://github.com/fxmorin/memoryLeakFix)               |
 
 ## Optimization
 | Name                 | Version | Download                                                                                                   | Source                                                      |
