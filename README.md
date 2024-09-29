@@ -78,6 +78,7 @@
 | Indium                       | 1.0.34  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/indium/files/5493195)                            | [GitHub](https://github.com/comp500/Indium)                    |
 | Better Fps - Render Distance | 6.0     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric/files/5723259) | [GitHub](https://github.com/someaddons/betterfpsdistances)     |
 | Entity Culling               | 1.7.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/5672090)                     | [GitHub](https://github.com/tr7zw/EntityCulling)               |
+| Continuity                   | 3.0.0   | [Modrinth](https://modrinth.com/mod/continuity/version/3.0.0-beta.5+1.20.1)                                | [GitHub](https://github.com/PepperCode1/Continuity)            |
 
 ## GUI
 | Name                     | Version    | Download                                                                                            | Source                                                                  |
