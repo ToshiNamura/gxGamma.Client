@@ -1,7 +1,10 @@
 ﻿# gxGamma Client
 
-<details>
-<summary>Client Core</summary>
+__Minimum 5Gb memory.__
+
+## Sources
+
+<details> <summary>Client Core</summary>
 
 <!-- | Name | Version | Web-Site | Source | -->
 | Name             | Version | Web-Site                                                                  | Source                                              |
@@ -11,11 +14,10 @@
 | Fabric API       | 0.92.2  | [curseforge.com](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [GitHub](https://github.com/FabricMC/fabric)        |
 </details>
 
-<details>
-<summary>Modifications</summary>
-
 <!-- | Name | Version | [CurseForge]() | [GitHub]() | -->
-## Library
+<details> <summary>Modifications</summary>
+<details> <summary>Library</summary>
+
 | Name                         | Version | Download                                                                                             | Source                                                                 |
 | :--------------------------- | :-----: | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 | Cupboard                     | 2.7     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cupboard/files/5470034)                    | [GitHub](https://github.com/someaddons/cupboard)                       |
@@ -32,8 +34,9 @@
 | oωo                          | 0.11.2  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/owo-lib/files/4749199)                     | [GitHub](https://github.com/wisp-forest/owo-lib)                       |
 | Botarium                     | 2.3.4   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botarium/files/5486071)                    | [GitHub](https://github.com/terrarium-earth/Common-Storage-Lib)        |
 | Resourceful Lib              | 2.1.29  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib/files/5659872)             | [GitHub](https://github.com/Team-Resourceful/ResourcefulLib)           |
+</details>
+<details> <summary>Bug fix</summary>
 
-## Bug fix
 | Name            | Version | Download                                                                                        | Source                                                           |
 | :-------------- | :-----: | :---------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
 | ModernFix       | 5.19.4  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/5676012/)             | [GitHub](https://github.com/embeddedt/ModernFix)                 |
@@ -47,8 +50,9 @@
 | AntiGhost       | 1.1.5   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/antighost/files/4613757)              | [GitHub](https://github.com/gbl/AntiGhost)                       |
 | ToolTipFix      | 1.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tooltipfix/files/4577194)             | [GitHub](https://github.com/kyrptonaught/tooltipfix)             |
 | Memory Leak Fix | 1.1.5   | [Modrinth](https://modrinth.com/mod/memoryleakfix/version/v1.1.5)                               | [GitHub](https://github.com/fxmorin/memoryLeakFix)               |
+</details>
+<details> <summary>Optimization</summary>
 
-## Optimization
 | Name                 | Version | Download                                                                                                   | Source                                                      |
 | :------------------- | :-----: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: |
 | Smooth Chunk Save    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save/files/5138126)                 | [GitHub](https://github.com/someaddons/smoothchunksave)     |
@@ -66,8 +70,9 @@
 | Recipe Essentials    | 3.6     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric/files/5581358)    | [GitHub](https://github.com/someaddons/recipeessentials)    |
 | LazyDFU              | 0.1.3   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu/files/3821870)                           | [GitHub](https://github.com/astei/lazydfu)                  |
 | FeyTweaks            | 1.2.7   | [Modrinth](https://modrinth.com/mod/feytweaks/version/1.20-1.2.7)                                          | [GitHub](https://github.com/feytox/FeyTweaks)               |
+</details>
+<details> <summary>Graphics</summary>
 
-## Graphics
 | Name                         | Version | Download                                                                                                   | Source                                                         |
 | :--------------------------- | :-----: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
 | Sodium                       | 0.5.11  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sodium/files/5485654)                            | [GitHub](https://github.com/CaffeineMC/sodium-fabric)          |
@@ -78,8 +83,9 @@
 | Better Fps - Render Distance | 6.0     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric/files/5723259) | [GitHub](https://github.com/someaddons/betterfpsdistances)     |
 | Entity Culling               | 1.7.0   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/entityculling/files/5672090)                     | [GitHub](https://github.com/tr7zw/EntityCulling)               |
 | Continuity                   | 3.0.0   | [Modrinth](https://modrinth.com/mod/continuity/version/3.0.0-beta.5+1.20.1)                                | [GitHub](https://github.com/PepperCode1/Continuity)            |
+</details>
+<details> <summary>GUI</summary>
 
-## GUI
 | Name                     | Version    | Download                                                                                            | Source                                                                  |
 | :----------------------- | :--------: | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 | Configured               | 2.2.3      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/configured/files/5180902)                 | [GitHub](https://github.com/MrCrayfish/Configured)                      |
@@ -101,8 +107,9 @@
 | Emojiful                 | 4.2.0      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/emojiful/files/4672307)                   | [GitHub](https://github.com/InnovativeOnlineIndustries/Emojiful)        |
 | Durability Tooltip       | 1.1.5      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/durability-tooltip/files/4741041)         | [GitHub](https://github.com/SuperMartijn642/DurabilityTooltip)          |
 | Shulker Box Tooltip      | 4.0.4      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip/files/4611154)          | [GitHub](https://github.com/MisterPeModder/ShulkerBoxTooltip)           |
+</details>
+<details> <summary>Utility</summary>
 
-## Utility
 | Name              | Version | Download                                                                                     | Source                                                     |
 | :---------------- | :-----: | :------------------------------------------------------------------------------------------: | :--------------------------------------------------------: |
 | Spark             | 1.10.53 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/spark/files/4738953)               | [GitHub](https://github.com/lucko/spark)                   |
@@ -115,8 +122,9 @@
 | CraftTweaker      | 14.0.43 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/crafttweaker/files/5648764)        | [GitHub](https://github.com/CraftTweaker/CraftTweaker)     |
 | Chunky            | 1.3.146 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/5320021) | [GitHub](https://github.com/pop4959/Chunky)                |
 | Chunky Border     | 1.1.53  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chunky-border/files/4787015)       | [GitHub](https://github.com/pop4959/ChunkyBorder)          |
+</details>
+<details> <summary>Game Mechanics</summary>
 
-## Game Mechanics
 | Name                          | Version | Download                                                                                                    | Source                                                                             |
 | :---------------------------- | :-----: | :---------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 | Botania                       | 446     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/botania-fabric/files/5594996)                     | [GitHub](https://github.com/VazkiiMods/Botania)                                    |
@@ -152,13 +160,15 @@
 | Create: Structures            | 0.1.1   | [Modrinth](https://modrinth.com/datapack/create-structures/version/0.1.1+mod)                               | [GitHub](https://github.com/FusionSwarly/Create-Structures)                        |
 | Create: Extended Cogwheels    | 2.1.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-extended-cogwheels-fabric/files/5229919)   | [GitHub](https://github.com/Rabbitminers/Extended-Cogwheels)                       |
 | Create Enchantment Industry   | 0.5.1   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry-fabric/files/5170120) | [GitHub](https://github.com/DragonsPlusMinecraft/CreateEnchantmentIndustry-Fabric) |
+</details>
+<details> <summary>World Gen</summary>
 
-## World Gen
 | Name              | Version | Download                                                                              | Source                                                   |
 | :---------------- | :-----: | :-----------------------------------------------------------------------------------: | :------------------------------------------------------: |
 | BetterEnd         | 4.0.11  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betterend/files/4971487)    | [GitHub](https://github.com/quiqueck/BetterEnd)          |
 | BetterNether      | 9.0.10  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/betternether/files/4971478) | [GitHub](https://github.com/quiqueck/BetterNether)       |
 | Deeper and Darker | 1.3.2.1 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/deeperdarker/files/5725442) | [GitHub](https://github.com/KyaniteMods/DeeperAndDarker) |
+</details>
 </details>
 
 <details>
