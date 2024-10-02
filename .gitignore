@@ -45,3 +45,13 @@
 !/config/betterend/generator.json
 !/config/betterend/items.json
 !/config/betterend/portals.json
+
+### betternether
+!/config/betternether
+/config/betternether/*
+!/config/betternether/biomes.json
+!/config/betternether/blocks.json
+!/config/betternether/generator.json
+!/config/betternether/items.json
+!/config/betternether/main.json
+!/config/betternether/mobs.json
