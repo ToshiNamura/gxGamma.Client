@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/appleskin.json5
 !/config/attributefix.json
 !/config/betterfpsdist.json
 !/config/betterpingdisplay.json
