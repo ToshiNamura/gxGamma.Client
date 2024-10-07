@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/deeperdarker.json5
 !/config/dsbg-server.toml
 !/config/durabilitytooltip-common.toml
 !/config/emojiful.json
