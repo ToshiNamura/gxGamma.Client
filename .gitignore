@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/expanded-delight.json
 !/config/extendedgears-common.toml
 !/config/farmersdelight-client.toml
 !/config/farmersdelight-common.toml
