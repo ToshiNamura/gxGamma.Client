@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/libgui.json5
 !/config/logbegone.toml
 !/config/magna.json
 !/config/midnightlib.json
