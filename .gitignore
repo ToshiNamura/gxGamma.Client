@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/extendedgears-common.toml
 !/config/farmersdelight-client.toml
 !/config/farmersdelight-common.toml
 !/config/fastpaintings-common.json
