@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/flywheel.json
 !/config/forgeconfigapiport.toml
 !/config/fpsreducer.json
 !/config/immediatelyfast.json
