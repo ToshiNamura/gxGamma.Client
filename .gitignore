@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/durabilitytooltip-common.toml
 !/config/emojiful.json
 !/config/enchdesc.json
 !/config/ends_delight-common.toml
