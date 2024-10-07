@@ -61,6 +61,11 @@
 /config/chunky/*
 !/config/chunky/config.json
 
+### config/chunkyborder
+!/config/chunkyborder
+/config/chunkyborder/*
+!/config/chunkyborder/config.json
+
 ### config/
 !/config/appleskin.json5
 !/config/attributefix.json
