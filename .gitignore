@@ -93,6 +93,15 @@
 !/config/jade/sort-order.json
 !/config/jade/sort-order.json
 
+### config/jei
+!/config/jei
+/config/jei/*
+!/config/jei/blacklist.cfg
+!/config/jei/jei-client.ini
+!/config/jei/jei-colors.ini
+!/config/jei/jei-debug.ini
+!/config/jei/jei-mod-id-format.ini
+
 ### config/
 !/config/appleskin.json5
 !/config/attributefix.json
