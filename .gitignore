@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/magna.json
 !/config/midnightlib.json
 !/config/modmenu.json
 !/config/moonlight-client.json
