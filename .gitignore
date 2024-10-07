@@ -107,6 +107,11 @@
 /config/openloader/*
 !/config/openloader/advanced_options.json
 
+### config/spark
+!/config/spark
+/config/spark/*
+!/config/spark/config.json
+
 ### config/
 !/config/appleskin.json5
 !/config/attributefix.json
