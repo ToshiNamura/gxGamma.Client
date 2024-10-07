@@ -83,6 +83,16 @@
 !/config/inventorysorter/blacklist.json5
 !/config/inventorysorter/config.json5
 
+### config/jade
+!/config/jade
+/config/jade/*
+!/config/jade/hide-blocks.json
+!/config/jade/hide-entities.json
+!/config/jade/jade.json
+!/config/jade/plugins.json
+!/config/jade/sort-order.json
+!/config/jade/sort-order.json
+
 ### config/
 !/config/appleskin.json5
 !/config/attributefix.json
