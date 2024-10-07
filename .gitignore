@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/chat_heads.json5
 !/config/connectivity.json
 !/config/continuity.json
 !/config/create-client.toml
