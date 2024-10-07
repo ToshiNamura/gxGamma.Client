@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/smoothchunk.json
 !/config/sodium-extra-options.json
 !/config/sodium-options.json
 !/config/status-effect-bars.json
