@@ -102,6 +102,11 @@
 !/config/jei/jei-debug.ini
 !/config/jei/jei-mod-id-format.ini
 
+### config/openloader
+!/config/openloader
+/config/openloader/*
+!/config/openloader/advanced_options.json
+
 ### config/
 !/config/appleskin.json5
 !/config/attributefix.json
