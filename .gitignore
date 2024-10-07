@@ -57,6 +57,8 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/farmersdelight-client.toml
+!/config/farmersdelight-common.toml
 !/config/fastpaintings-common.json
 !/config/feytweaks.json
 !/config/flywheel.json
