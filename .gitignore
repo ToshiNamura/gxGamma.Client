@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/status-effect-bars.json
 !/config/structureessentials.json
 !/config/ubesdelight.json
 !/config/worldeditcui.config.json
