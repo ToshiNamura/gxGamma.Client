@@ -57,6 +57,8 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/sodium-extra-options.json
+!/config/sodium-options.json
 !/config/status-effect-bars.json
 !/config/structureessentials.json
 !/config/ubesdelight.json
