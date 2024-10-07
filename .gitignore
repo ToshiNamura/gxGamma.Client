@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/languagereload.json
 !/config/letmedespawn.json
 !/config/libgui.json5
 !/config/logbegone.toml
