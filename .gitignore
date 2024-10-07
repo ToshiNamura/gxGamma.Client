@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/modmenu.json
 !/config/moonlight-client.json
 !/config/noindium.json
 !/config/patchouli.json5
