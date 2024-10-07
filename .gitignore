@@ -57,6 +57,8 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/botania-client.json5
+!/config/botania-common.json5
 !/config/chat_heads.json5
 !/config/connectivity.json
 !/config/continuity.json
