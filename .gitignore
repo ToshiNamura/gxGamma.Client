@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/betterfpsdist.json
 !/config/betterpingdisplay.json
 !/config/botania-client.json5
 !/config/botania-common.json5
