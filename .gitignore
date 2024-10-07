@@ -77,6 +77,12 @@
 !/config/indrev/oregen.json
 !/config/indrev/upgrades.json
 
+### config/inventorysorter
+!/config/inventorysorter
+/config/inventorysorter/*
+!/config/inventorysorter/blacklist.json5
+!/config/inventorysorter/config.json5
+
 ### config/
 !/config/appleskin.json5
 !/config/attributefix.json
