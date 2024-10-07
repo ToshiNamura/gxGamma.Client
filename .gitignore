@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/noindium.json
 !/config/patchouli.json5
 !/config/railways-client.toml
 !/config/railways-common.toml
