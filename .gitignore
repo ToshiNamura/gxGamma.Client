@@ -57,5 +57,6 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/structureessentials.json
 !/config/ubesdelight.json
 !/config/worldeditcui.config.json
