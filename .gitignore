@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/entityculling.json
 !/config/estrogen-client.toml
 !/config/estrogen-common.toml
 !/config/estrogen-server.toml
