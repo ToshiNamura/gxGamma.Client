@@ -56,6 +56,11 @@
 !/config/betternether/main.json
 !/config/betternether/mobs.json
 
+### config/chunky
+!/config/chunky
+/config/chunky/*
+!/config/chunky/config.json
+
 ### config/
 !/config/appleskin.json5
 !/config/attributefix.json
