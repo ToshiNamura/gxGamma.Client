@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/emojiful.json
 !/config/enchdesc.json
 !/config/ends_delight-common.toml
 !/config/entityculling.json
