@@ -57,6 +57,9 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/create-client.toml
+!/config/create-common.toml
+!/config/create-server.toml
 !/config/createaddition-common.toml
 !/config/create_dd-client.toml
 !/config/create_dd-common.toml
