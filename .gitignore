@@ -15,17 +15,17 @@
 !/resourcepacks/
 !/shaderpacks/
 
-## Config
+## config
 !/config/
 /config/*
 
-### ae2
+### config/ae2
 !/config/ae2
 /config/ae2/*
 !/config/ae2/client.json
 !/config/ae2/common.json
 
-### bclib
+### config/bclib
 !/config/bclib
 /config/bclib/*
 !/config/bclib/biomes.json
@@ -35,7 +35,7 @@
 !/config/bclib/main.json
 !/config/bclib/server.json
 
-### betterend
+### config/betterend
 !/config/betterend
 /config/betterend/*
 !/config/betterend/blocks.json
@@ -46,7 +46,7 @@
 !/config/betterend/items.json
 !/config/betterend/portals.json
 
-### betternether
+### config/betternether
 !/config/betternether
 /config/betternether/*
 !/config/betternether/biomes.json
