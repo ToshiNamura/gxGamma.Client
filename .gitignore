@@ -57,6 +57,9 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/railways-client.toml
+!/config/railways-common.toml
+!/config/railways-server.toml
 !/config/recipeessentials.json
 !/config/smoothchunk.json
 !/config/sodium-extra-options.json
