@@ -57,6 +57,7 @@
 !/config/betternether/mobs.json
 
 ### config/
+!/config/dsbg-server.toml
 !/config/durabilitytooltip-common.toml
 !/config/emojiful.json
 !/config/enchdesc.json
