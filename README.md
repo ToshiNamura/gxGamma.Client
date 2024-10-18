@@ -16,4 +16,11 @@
 | ---------- | ------- | ----------------------------------------------------------------------------------- | -------------------------------------------- |
 | Fabric API | 0.106.0 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/5814390) | [GitHub](https://github.com/FabricMC/fabric) |
 </details>
+<details> <summary>Technology</summary>
+
+<!-- | Name | Version | [CurseForge]() | [GitHub]() | -->
+| Name        | Version | Download                                                                            | Source                                             |
+| ----------- | ------- | ----------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Tech Reborn | 5.11.11 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/techreborn/files/5776057) | [GitHub](https://github.com/TechReborn/TechReborn) |
+</details>
 </details>
